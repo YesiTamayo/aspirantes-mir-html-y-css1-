@@ -60,4 +60,5 @@ form {
     color: white;
     cursor: pointer;
     float: right;
+    align-items: right;
   }
